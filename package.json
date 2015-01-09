@@ -1,0 +1,36 @@
+{
+  "name": "nodebb-plugin-sso-weibo",
+  "version": "1.0.0",
+  "description": "NodeBB Weibo SSO",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maooson/nodebb-plugin-sso-weibo"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "weibo",
+    "sso",
+    "single sign on",
+    "registration"
+  ],
+  "author": {
+    "name": "Jason Ma",
+    "email": "maooson@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maooson/nodebb-plugin-sso-weibo/issues"
+  },
+  "readme": "# NodeBB Weibo SSO\n\nNodeBB Plugin that allows users to login/register via their Weibo account.\n\n## Installation\n\n    npm install nodebb-plugin-sso-weibo\n",
+  "readmeFilename": "README.md",
+  "dependencies": {
+    "passport-weibo": "~0.1.0"
+  },
+  "homepage": "https://github.com/maooson/nodebb-plugin-sso-weibo",
+  "_id": "nodebb-plugin-sso-weibo@1.0.0",
+  "_shasum": "7f69457af0be2f025235aedb9204597e1f66efd6",
+  "_from": "nodebb-plugin-sso-weibo@",
+  "_resolved": "http://registry.cnpmjs.org/nodebb-plugin-sso-weibo/download/nodebb-plugin-sso-weibo-1.0.0.tgz"
+}
